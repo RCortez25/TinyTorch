@@ -1,8 +1,8 @@
 # TinyTorch
 Torch from scratch
 ```Text
-mm-recovery-rafael-cortez/
-├── data/                   # Datasets
+TinyTorch/
+├── 0.Foundation/                   # Datasets
     ├── full_system/     
     ├── reduced_system/
         └── derivatives/
