@@ -19,3 +19,5 @@ print(a)
 
 b = Tensor([4,5,6])
 print(a * b)
+
+print(a.memory_footprint())
