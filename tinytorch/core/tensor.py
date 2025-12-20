@@ -1,3 +1,5 @@
+import numpy as np
+
 class Tensor:
     """Tensor - the foundation of machine learning computation.
 
