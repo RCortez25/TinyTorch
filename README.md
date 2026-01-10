@@ -8,6 +8,6 @@ TinyTorch/
         └── derivatives/
 ├── 1.Architecture/
 ├── 2.Optimization/
-├── 3.Olympics/
+├── 3.Project/
 └── README.md
 ```
