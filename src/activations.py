@@ -3,8 +3,6 @@
 
 import numpy as np
 from typing import Optional
-
-# Import from TinyTorch package (previous modules must be completed and exported)
 from tinytorch.core.tensor import Tensor
 
 # Constants for numerical comparisons
